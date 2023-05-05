@@ -22,11 +22,7 @@
     margin: 0%;
   }
   
-  #badge {
-    position: absolute;
-    top: 5px;
-    right: 10px;
-  }
+ 
   
   .center {
     position: absolute;
@@ -294,6 +290,7 @@
   /*Create overlap*/
   
   margin-bottom: 20%;
+  margin-top: 20%;
   line-height: 0;
   /*Animation*/
   
